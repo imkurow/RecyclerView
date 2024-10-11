@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">4MP</string>
+    <string name="heroes_name">heroesName</string>
+    <string name="heroes_desc">heroDesc</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Bung Tomo</item>
+        <item>Gatot Subroto</item>
+        <item>Ki Hajar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Sudirman</item>
+        <item>Sukarno</item>
+        <item>Supomo</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+        <item>dia adalah pahlawan nasional</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+    </string-array>
+</resources>
